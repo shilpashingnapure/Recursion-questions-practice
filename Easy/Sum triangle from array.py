@@ -1,6 +1,7 @@
 '''
 Question Link -: https://www.geeksforgeeks.org/sum-triangle-from-array/
 level : Easy
+
 '''
 #code
 arr = [1,2,3,4,5]
